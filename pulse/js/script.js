@@ -72,7 +72,7 @@ $(document).ready(function () {
           required: true,
           minlength: 2,
         },
-        phone: "required",
+        phone: "required", 
         email: {
           required: true,
           email: true,
